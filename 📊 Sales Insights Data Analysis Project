@@ -1,0 +1,30 @@
+🔍 Project Overview
+This project simulates a real-world data analysis scenario typically performed in large companies using SQL and Power BI. It revolves around a computer hardware business facing challenges in a competitive market. The company's Sales Director decides to leverage data-driven decision making by building a dashboard that provides real-time sales insights.
+
+This case study is ideal for aspiring Data Analysts who want hands-on experience in:
+
+Working with a SQL database
+
+Performing real-world data analysis queries
+
+Creating calculated columns and data models
+
+Building interactive Power BI dashboards
+
+🧰 Tools and Technologies Used
+MySQL: For querying and analyzing structured data.
+
+Power BI: For building insightful and interactive dashboards.
+
+SQL: To extract meaningful insights from raw data.
+
+🗄️ Dataset Details
+The dataset includes:
+
+Customers Table: Customer details
+
+Transactions Table: Sales transactions across markets
+
+Date Table: Useful for filtering by year, month, etc.
+
+All data can be restored locally using the db_dump.sql file provided in this repo.
